@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+button{
+  background-color: whiteBlue;
+  position:absolute;
+  margin-left: 1000px;
+  margin-top: 600px;
+    /* width: 100px; */
+  height: 30px;
+  }
